@@ -1,0 +1,42 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+**/__pycache__/
+
+# Virtual environment
+venv/
+env/
+**/env/
+**/venv/
+
+# IDE-specific files (e.g., PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+*.code-workspace
+
+# Editor/IDE settings
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.out
+*.log
+
+# Local configuration files
+*.config
+
+# Miscellaneous
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+output.txt
